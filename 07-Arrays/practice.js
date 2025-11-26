@@ -70,6 +70,14 @@
 // console.log(finalArr);
 
 
+// const users = [
+//     ["alice", 25],
+//     ["sam", 22],
+//     ["ufffexx", 20],
+// ]
 
 
-
+// let arr2 = users.map(([name, age])=>{
+//     return {name, age}
+// })
+// console.log(arr2);
